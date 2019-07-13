@@ -11,5 +11,6 @@ I'm working on refactored versions with better explanations, full english transl
 - [ ] TP 5
 - [ ] TP 6
 - [ ] Final exam
-- [ ] English translation
 - [ ] requirements.txt
+- [ ] Reproductible work
+- [ ] Consistent English translation
